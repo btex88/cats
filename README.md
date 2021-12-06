@@ -1,0 +1,1 @@
+# App to display a beautiful picture of cats for each HTTP status
